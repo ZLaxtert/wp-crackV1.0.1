@@ -2,7 +2,7 @@
 
 Wordpress bruteforce is a tool that can carry out a hacking method that is carried out by trying all possible password combinations until they are successful on sites that have a CMS such as Wordpress installed.
 
-![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
+![PYTHON](https://img.shields.io/badge/language-PYTHON-blue.svg)
 ![DARKXCODE](https://img.shields.io/badge/Team-DARKXCODE-black)
 ![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
 
