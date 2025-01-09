@@ -1,0 +1,2 @@
+https://wordpress.darkxcode.site/wp-login.php|admin123|Admin@123
+https://wordpress.darkxcode.site/wp-login.php|admin123|Admin@123

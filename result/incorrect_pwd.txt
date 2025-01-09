@@ -1,0 +1,11 @@
+https://wordpress.darkxcode.site/wp-login.php|admin123|123456
+https://wordpress.darkxcode.site/wp-login.php|admin123|12345
+https://wordpress.darkxcode.site/wp-login.php|admin123|123456789
+https://wordpress.darkxcode.site/wp-login.php|admin123|admin123
+https://wordpress.darkxcode.site/wp-login.php|admin123|123456789
+https://wordpress.darkxcode.site/wp-login.php|admin123|12345
+https://wordpress.darkxcode.site/wp-login.php|admin123|123456
+https://wordpress.darkxcode.site/wp-login.php|admin123|12345
+https://wordpress.darkxcode.site/wp-login.php|admin123|123456789
+https://wordpress.darkxcode.site/wp-login.php|admin123|admin123
+https://wordpress.darkxcode.site/wp-login.php|admin123|123456
